@@ -1,0 +1,19 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 30
+- Name: Variable2
+  Id: g=2a3d7f2f191081f18b60d47f49dc8c32
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 56
+- Name: Variable3
+  Id: g=5e048a4075f6dea034e818292e2ee9f9
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: RuntimeNetLogic1
+  Type: NetLogic
